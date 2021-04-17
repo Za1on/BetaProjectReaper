@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d17cdd86b16bd8c4ba4cba90fab43722, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 2eee0dce75aba645a9e00db0e273a891
+    GuidInternal: 
+    m_lastTime: -8585839418054027383
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: f3590606df00d744adc0234ccbe28b1e
+    GuidInternal: 
+    m_lastTime: -8585839418067030320
+    List:
+    - name: Master Audio Bus
+      guid: d8a41415a61d2a41a17e75ca0c2149f3
+      id: 3803692087
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 76d60d16e3c6d142a64a1b574d25c5a7
+    GuidInternal: 
+    m_lastTime: -8585839418057658202
+    List:
+    - name: Main
+      guid: 71663ea6727da94883645fd1de764d78
+      id: 3161908922
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Main
+        ObjectType: 7
+      Path: Default Work Unit\Main
+    - name: Main_Test
+      guid: 8dedcb314cfbd14182396d319d2b6e30
+      id: 812327917
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Main_Test
+        ObjectType: 7
+      Path: Default Work Unit\Main_Test
+    - name: testCoin
+      guid: 9816e7597149904eb975e714713c9e62
+      id: 1483504058
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: testCoin
+        ObjectType: 7
+      Path: Default Work Unit\testCoin
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: b6ff39e1e5fb924c9213a8a0074f1620
+    GuidInternal: 
+    m_lastTime: -8585839418078372887
+    List:
+    - name: testCoin
+      guid: d25026651c88c74cba19562e205c1e03
+      id: 1483504058
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: testCoin
+        ObjectType: 3
+      Path: Default Work Unit\testCoin
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 32a39c4b58795b419fa05009766af5a5
+    GuidInternal: 
+    m_lastTime: -8585839418077632717
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 5da3406b0356ad4d9d4f64b56dd9f3e8
+    GuidInternal: 
+    m_lastTime: -8585839418056057838
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 03958a3436d7c44dbf35741520cbc5b3
+    GuidInternal: 
+    m_lastTime: -8585839418055197643
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 84b644761ee11e46813bae59f929b605
+    GuidInternal: 
+    m_lastTime: -8585839418055127627
+    List: []
+  ExpandedItems: []
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: Debug

@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1483504058	testCoin			\Default Work Unit\testCoin	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1027913258	testCoin	E:\ScriptingSemester3\Final_School_Game_Project_Reaper\Project Reaper\Assets\StreamingAssets\Audio\Project Reaper_WwiseProject\.cache\Mac\SFX\testCoin_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\testCoin		315456
+
